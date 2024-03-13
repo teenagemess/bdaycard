@@ -1095,7 +1095,7 @@
 	bottom:6%;
 	overflow: hidden;
 	opacity: 0.9;
-	transition: all 10s;
+	transition: all 3s;
 }
 .active .ly-box23{
 	height:600px;
