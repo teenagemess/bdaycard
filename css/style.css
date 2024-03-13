@@ -1268,7 +1268,7 @@
 	transition:all 0.5s;
 }
 .active .ly-imgbox31{
-	opacity:1;
+	opacity:0;
 	transition-delay:3.5s;
 }
 .ly-img31{
@@ -1406,6 +1406,16 @@
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
+	transition:all 0.5s;
+}
+
+.audio{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 15%;
+	left: 0%;
+	border-radius: 8px;
 	transition:all 0.5s;
 }
 .active .ly-imgbox31{
